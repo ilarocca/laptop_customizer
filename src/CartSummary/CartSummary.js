@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import CartList from './CartList';
-import CartTotal from './CartTotal';
+import CartList from '../CartList/CartList';
+import CartTotal from '../CartTotal/CartTotal';
 
 export default class CartSummary extends Component {
   render() {

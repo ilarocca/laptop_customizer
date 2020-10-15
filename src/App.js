@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import FeaturesForm from './FeaturesForm';
-import CartForm from './CartForm';
+import FeaturesForm from './FeaturesForm/FeaturesForm';
+import CartSummary from './CartSummary/CartSummary';
 
 // Normalizes string as a slug - a string that is safe to use
 // in both URLs and html attributes
@@ -60,7 +60,7 @@ class App extends Component {
             }
             USCurrencyFormat={USCurrencyFormat}
           />
-          <CartForm state={this.state} USCurrencyFormat={USCurrencyFormat} />
+          <CartSummary state={this.state} USCurrencyFormat={USCurrencyFormat} />
         </main>
       </div>
     );

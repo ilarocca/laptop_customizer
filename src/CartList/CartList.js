@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { render } from 'react-dom';
 
-export default class Cart extends Component {
+export default class CartList extends Component {
   render() {
     const USCurrencyFormat = this.props.USCurrencyFormat;
     const summary = Object.keys(this.props.state.selected).map(

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import FeaturesList from './FeaturesList';
+import FeaturesList from '../FeaturesList/FeaturesList';
 
 export default class FeaturesForm extends Component {
   render() {
