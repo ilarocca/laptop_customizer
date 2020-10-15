@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/laptop_customizer/static/css/main.72a41afd.chunk.css",
+    "main.js": "/laptop_customizer/static/js/main.66a4915d.chunk.js",
+    "main.js.map": "/laptop_customizer/static/js/main.66a4915d.chunk.js.map",
+    "runtime~main.js": "/laptop_customizer/static/js/runtime~main.11bd55f9.js",
+    "runtime~main.js.map": "/laptop_customizer/static/js/runtime~main.11bd55f9.js.map",
+    "static/js/2.ed960d5b.chunk.js": "/laptop_customizer/static/js/2.ed960d5b.chunk.js",
+    "static/js/2.ed960d5b.chunk.js.map": "/laptop_customizer/static/js/2.ed960d5b.chunk.js.map",
+    "index.html": "/laptop_customizer/index.html",
+    "precache-manifest.951fdfde33133d97c86abd56131c1330.js": "/laptop_customizer/precache-manifest.951fdfde33133d97c86abd56131c1330.js",
+    "service-worker.js": "/laptop_customizer/service-worker.js",
+    "static/css/main.72a41afd.chunk.css.map": "/laptop_customizer/static/css/main.72a41afd.chunk.css.map"
+  }
+}
